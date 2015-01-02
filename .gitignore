@@ -1,3 +1,5 @@
-!App/SmartGitHg/git/etc/profile
-App/SmartGitHg
+App/SmartGit
+!App/SmartGit/git/etc/gitconfig
+!App/SmartGit/git/etc/profile
+!App/SmartGit/git/home/.bashrc
 Data
